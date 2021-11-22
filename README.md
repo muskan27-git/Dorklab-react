@@ -1,5 +1,5 @@
 # ReactJs - simple crud app (with variable)
-This is simple crud app with data on variable, understanding of react think . <br>
+TO-do list using CRUD operations
 
 ## Features
 * CRUD (create, read, update, delete) just on one form.
@@ -7,8 +7,9 @@ This is simple crud app with data on variable, understanding of react think . <b
 ## Used Technology
 [reactJs](https://reactjs.org/) 
 
-## Screenshot
-![](https://github.com/indracahyae/reactJs-simple-crud/blob/master/screenshots/1.png?raw=true)
-<br> <br>
-With some data.
-![](https://github.com/indracahyae/reactJs-simple-crud/blob/master/screenshots/2.png?raw=true)
+Use npm start to run this project after cloning 
+
+
+You can now view this project in the browser.     
+
+  Local: http://localhost:3000/  
